@@ -1,0 +1,23 @@
+-FIX THE LAYOUTS
+-on map selection screen, need 8 buttons, with the objects named "dust2", "cache", etc.
+-options menu
+-all the shit deeper and deeper in as you select more buttons
+-steam connection, not sure
+
+tr8m!
+
+University of Chicago
+MIT
+CalTech
+Northwestern
+Cornell
+
+UCB
+UCLA
+UCSD
+UCI
+
+USC
+CMU
+UIUC
+SJSU
